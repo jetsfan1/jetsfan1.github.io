@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email:
 description: "Datahawk blog"
 keyword: "openshift data"
-url: "https://swapan-datahawklab.github.io/"              # your host, for absolute URL
+url: "https://jetsfan1.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 # Publish posts or collection documents with a future date.
 future: true
@@ -14,7 +14,7 @@ future: true
 #RSS: false
 #weibo_username:     huxpro
 #zhihu_username:     huxpro
-github_username:    swapan-datahawklab
+github_username:    jetsfan1
 #twitter_username:   huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
